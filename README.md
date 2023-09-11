@@ -1,6 +1,10 @@
  
 # Housing Data Analysis Project
 
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Prerequisites](#prerequisites)
 
 ## Introduction
 
@@ -8,10 +12,7 @@ Welcome to the Housing Data Analysis Project! This repository contains a Python-
 
 Whether you are a data enthusiast, a real estate professional, or someone interested in data analysis, this project will give you hands-on experience in working with housing datasets.
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
 
 ## Prerequisites
 
